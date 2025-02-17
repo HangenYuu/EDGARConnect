@@ -1,0 +1,12 @@
+name: edgarconnect
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - requests
+  - numpy
+  - pandas
+  - pytz
+  - fake-useragent
+  - ipykernel
+  - beautifulsoup4
